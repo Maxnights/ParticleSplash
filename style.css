@@ -1,0 +1,6 @@
+/* Stage 1: Basic styles */
+body, html { margin: 0; padding: 0; }
+.splash__screen {
+  width: 100vw; height: 100vh;
+  background-color: #000;
+}
