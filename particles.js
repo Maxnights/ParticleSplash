@@ -1,3 +1,5 @@
+// Last updated: 2025-05-14
+
 const canvas = document.querySelector('.hero__canvas');
 const ctx = canvas.getContext('2d');
 let particles = [];
