@@ -1,5 +1,3 @@
-// Last updated: 2025-05-15
-
 import {setDimensions, animate} from './particles.js';
 const splashScreen = document.querySelector('.splash__screen')
 const splashLeft = document.querySelector('.left');
